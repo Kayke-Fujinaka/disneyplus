@@ -4,7 +4,7 @@
 
 >  The Clone of Disney+.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Disneyplus/
+Confira a aplicação: https://displayplusclone.netlify.app
 
 ## 🚀 Technologies
 

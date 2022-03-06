@@ -1,0 +1,82 @@
+@media (max-width: 1025px) {
+
+    body {
+        background: url(/assets/img/bg-cell.jpg) no-repeat;
+        background-size: cover;
+        height: 100vh;
+    }
+
+    .container-top {
+        min-height: 70vh;
+        padding: 40vw 15vw 2vw;
+    }
+
+    .container-top h1 {
+        font-size: 23px;
+        text-align: center;
+    }
+
+    .disney-combo {
+        max-width: 320px;
+        max-height: 130px;
+        padding: 0 145px;
+        display: none;
+    }
+
+    .assinar-combo a {
+        max-width: 600px;
+        max-height: 68px;
+        font-size: 18px;
+        text-align: center;
+        padding: 20.5px 0pc;
+        margin-top: 30px;
+    }
+
+    .assinar-disney {
+        font-size: 16px;
+    }
+
+    .assinar-disney p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 750px) {
+
+    .container-top {
+        margin-top: 200px;
+    }
+
+    .container-top h1 {
+        font-size: 15px;
+        text-align: center;
+        line-height: 20px;
+    }
+
+    .btn {
+        padding: 5px 5px;
+        font-size: 10px;
+    }
+
+    .assinar-combo a {
+        max-width: none;
+        max-height: 50px;
+        font-size: 12px;
+        text-align: center;
+        padding: 10px 0px;
+        margin-top: 30px;
+    }
+
+    .p-information {
+        font-size: 10px;
+    }
+
+    .assinar-disney {
+        font-size: 12px;
+    }
+
+    .assinar-disney p {
+        font-size: 12px;
+    }
+
+}

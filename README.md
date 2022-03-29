@@ -1,37 +1,43 @@
-# Disney+ Aplication
+# GCB Test: Healthy Eating
 
-<img src="./assets/img/img.png" width="450px" alt="Disney+ Page">
+<img src="./assets/img/gif.gif" width="800px" height="450px" alt="Gif do Teste">
 
->  The Clone of Disney+.
+>  The Clone of Disney+
 
-Confira a aplicação: https://displayplusclone.netlify.app
+Check the Application: https://displayplusclone.netlify.app/
+## :dart: Features ##
 
-## 🚀 Technologies
+:heavy_check_mark: Estruturação da página;\
+:heavy_check_mark: Estilização do projeto;\
+:heavy_check_mark: Deixando o projeto responsivo;\
+:heavy_check_mark: Finalizado;
+## :rocket: Technologies ##
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+The following tools were used in this project:
 
-- HTML5
-- CSS3
-- Media Query
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+## 🤝 Collaborators
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
+&#xa0;
+
+<a href="#top">Back to top</a>

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Avenir Roman";
+    src: url(/assets/css/avenir-roman.ttf) format("truetype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(/assets/img/bg.jpg) no-repeat center center;
+    background-size: cover;
+    height: 109vh;
+    display: flex;
+    align-items: center;
+}

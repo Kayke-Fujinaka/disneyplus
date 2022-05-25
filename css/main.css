@@ -1,0 +1,187 @@
+@font-face {
+  font-family: "Avenir Roman";
+  src: url(/assets/css/avenir-roman.ttf) format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(/assets/img/bg.jpg) no-repeat center center;
+  background-size: cover;
+  height: 109vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.btn {
+  border: 1px solid #f9f9f9;
+  font-family: Avenir,sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 16px 16px;
+  border-radius: 4px;
+  text-align: center;
+  color: #f9f9f9;
+  text-decoration: none;
+  display: inline-block;
+  position: fixed;
+  top: 16px;
+  right: 32px;
+}
+
+.btn:hover {
+  background: white;
+  color: black;
+}
+
+.container-top {
+  color: #f9f9f9;
+  padding: 87px;
+  max-width: 640px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: -115px;
+}
+
+.container-top h1 {
+  font-size: 27px;
+  color: #f9f9f9;
+  text-align: center;
+  font-family: Avenir, sans-serif;
+  line-height: 38px;
+}
+
+.container-top .disney-combo {
+  width: 100%;
+  max-width: 400px;
+  max-height: 160px;
+  padding: 0 120px;
+  margin: 24px 0 30px;
+}
+
+.assinar-combo a {
+  display: block;
+  font-family: Avenir,sans-serif;
+  padding: 20.5px 222px;
+  max-width: 640px;
+  max-height: 68px;
+  background: #0063e5;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  text-decoration: none;
+  color: #f9f9f9;
+  font-weight: 200;
+}
+
+.assinar-combo a:hover {
+  background: #0065EA;
+}
+
+.p-information {
+  font-family: Avenir,sans-serif;
+  margin: 30px 0;
+  font-size: 12px;
+  color: silver;
+  text-align: center;
+}
+
+.assinar-disney {
+  font-size: 19px;
+  line-height: 30px;
+  font-family: Avenir,sans-serif;
+  text-align: center;
+}
+
+.assinar-disney a {
+  color: #f9f9f9;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+.assinar-disney p {
+  color: silver;
+  font-size: 18px;
+}
+
+@media (max-width: 1025px) {
+  body {
+    background: url(/assets/img/bg-cell.jpg) no-repeat;
+    background-size: cover;
+    height: 120vh;
+  }
+  .container-top {
+    min-height: 70vh;
+    padding: 40vw 15vw 2vw;
+  }
+  .container-top h1 {
+    font-size: 23px;
+    text-align: center;
+  }
+  .disney-combo {
+    max-width: 320px;
+    max-height: 130px;
+    padding: 0 145px;
+    display: none;
+  }
+  .assinar-combo a {
+    max-width: 600px;
+    max-height: 68px;
+    font-size: 18px;
+    text-align: center;
+    padding: 20.5px 0pc;
+    margin-top: 30px;
+  }
+  .assinar-disney {
+    font-size: 16px;
+  }
+  .assinar-disney p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 750px) {
+  .container-top {
+    margin-top: 200px;
+  }
+  .container-top h1 {
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+  }
+  .btn {
+    padding: 5px 5px;
+    font-size: 10px;
+  }
+  .assinar-combo a {
+    max-width: none;
+    max-height: 50px;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 0px;
+    margin-top: 30px;
+  }
+  .p-information {
+    font-size: 10px;
+  }
+  .assinar-disney {
+    font-size: 12px;
+  }
+  .assinar-disney p {
+    font-size: 12px;
+  }
+}
+/*# sourceMappingURL=main.css.map */

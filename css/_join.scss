@@ -1,0 +1,22 @@
+.btn {
+    border: 1px solid #f9f9f9;
+    font-family: Avenir,sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background: rgba(0,0,0, .6);
+    padding: 16px 16px;
+    border-radius: 4px;
+    text-align: center;
+    color: #f9f9f9;
+    text-decoration: none;
+    display: inline-block;
+    position: fixed;
+    top: 16px;
+    right: 32px;
+  }
+  
+  .btn:hover {
+    background: white;
+    color: black;
+  }

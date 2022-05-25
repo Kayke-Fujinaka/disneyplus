@@ -1,0 +1,24 @@
+.container-top {
+  color: #f9f9f9;
+  padding: 87px;
+  max-width: 640px;
+  align-items: center;
+  justify-content: center;
+  margin-top: -115px;
+
+  h1 {
+    font-size: 27px;
+    color: #f9f9f9;
+    text-align: center;
+    font-family: Avenir, sans-serif;
+    line-height: 38px;
+  }
+
+  .disney-combo {
+    width: 100%;
+    max-width: 400px;
+    max-height: 160px;
+    padding: 0 120px;
+    margin: 24px 0 30px;
+  }
+}

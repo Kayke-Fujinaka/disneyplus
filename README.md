@@ -1,22 +1,26 @@
-# GCB Test: Healthy Eating
+# PEPSI LANDING PAGE
 
-<img src="./assets/img/gif.gif" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" alt="Test Gif">
 
->  The Clone of Disney+
+> It's a Pepsi Landing Page.
 
-Check the Application: https://displayplusclone.netlify.app/
+Check the Application: https://kayke-fujinaka.github.io/LandingPage-Pepsi/
 ## :dart: Features ##
 
-:heavy_check_mark: Estruturação da página;\
-:heavy_check_mark: Estilização do projeto;\
-:heavy_check_mark: Deixando o projeto responsivo;\
-:heavy_check_mark: Finalizado;
-## :rocket: Technologies ##
+Check out the app: https://pepsiclonning.netlify.app
+
+
+:heavy_check_mark: Page Structure with Html;\
+:heavy_check_mark: Styling with CSS;\
+:heavy_check_mark: Using JavaScript;\
+:heavy_check_mark: Finished;
+## :rockets: Technologies ##
 
 The following tools were used in this project:
 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [Html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ## 🤝 Collaborators
 
 We thank the following people who contributed to this project:
@@ -25,12 +29,12 @@ We thank the following people who contributed to this project:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
